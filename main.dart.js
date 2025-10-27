@@ -42276,7 +42276,7 @@ A.pq.prototype={
 U(){return new A.Tk([])}}
 A.Tk.prototype={
 ac(){this.ao()
-new A.eG(A.fE(null),"http://localhost:3000").vJ(A.ia("t")).f_(new A.anF(this))},
+new A.eG(A.fE(null),"https://api.renoresearch.sg").vJ(A.ia("t")).f_(new A.anF(this))},
 G(a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=null,a="Customer Management",a0=t.w,a1=A.aY(a3,b,a0).w.a.a,a2=A.aY(a3,b,a0).w.a.b
 a0=a1-330
 s=a1*0.02
@@ -42363,13 +42363,13 @@ U(){var s=$.az()
 return new A.Fg(new A.dj(B.ao,s),new A.dj(B.ao,s),new A.dj(B.ao,s),new A.dW(Date.now(),0,!1),A.d(["Publish","Draft","Removed"],t.s),[],[],[])}}
 A.Fg.prototype={
 ac(){this.ao()
-new A.eG(A.fE(null),"http://localhost:3000").qV(A.ia("t")).f_(new A.aoO(this))
+new A.eG(A.fE(null),"https://api.renoresearch.sg").qV(A.ia("t")).f_(new A.aoO(this))
 var s=this.Q
 B.c.jx(B.l.j(A.aBE(s)),2,"0")
 B.c.jx(B.l.j(A.aBF(s)),2,"0")},
 IK(a){var s=this
 s.M(new A.aoT(s))
-new A.eG(A.fE(null),"http://localhost:3000").qV(A.ia("t")).f_(new A.aoU(s))
+new A.eG(A.fE(null),"https://api.renoresearch.sg").qV(A.ia("t")).f_(new A.aoU(s))
 s.d.lA(0,B.lB)},
 xp(){var s=0,r=A.S(t.H),q,p=this,o,n,m
 var $async$xp=A.T(function(a,b){if(a===1)return A.P(b,r)
@@ -42544,7 +42544,7 @@ $S:0}
 A.aoE.prototype={
 $0(){var s=this.a
 if(s.w&&s.r!=null&&s.d.a.a.length>=3){s.M(new A.aoz(s))
-new A.eG(A.fE(null),"http://localhost:3000").B6(s.d.a.a,B.bu.H_(s.r,null),[],A.ia("t")).f_(new A.aoA(s,this.b,this.c))}else s.M(new A.aoB(s))},
+new A.eG(A.fE(null),"https://api.renoresearch.sg").B6(s.d.a.a,B.bu.H_(s.r,null),[],A.ia("t")).f_(new A.aoA(s,this.b,this.c))}else s.M(new A.aoB(s))},
 $S:0}
 A.aoz.prototype={
 $0(){return this.a.x=!0},
@@ -42587,7 +42587,7 @@ if(p==="Publish")p=0
 else p=p==="Draft"?1:2
 s=A.d([A.aF(["question",q,"status",p,"answer",r.f.a.a,"updated",r.Q.j(0),"person",r.a.c],t.N,t.X)],t.CF)
 A.zm(null)
-new A.eG(A.fE(null),"http://localhost:3000").z7(J.a7(J.a7(r.ch,r.cy),"name"),s,r.db,A.ia("t")).f_(new A.aow(r,this.b,this.c))},
+new A.eG(A.fE(null),"https://api.renoresearch.sg").z7(J.a7(J.a7(r.ch,r.cy),"name"),s,r.db,A.ia("t")).f_(new A.aow(r,this.b,this.c))},
 $S:0}
 A.aow.prototype={
 $1(a){var s=J.h1(a)
@@ -42609,7 +42609,7 @@ if(p==="Publish")p=0
 else p=p==="Draft"?1:2
 s=A.d([A.aF(["question",q,"status",p,"answer",r.f.a.a,"updated",r.Q.j(0),"person",r.a.c],t.N,t.X)],t.CF)
 A.zm(null)
-new A.eG(A.fE(null),"http://localhost:3000").vz(J.a7(J.a7(r.ch,r.cy),"name"),s,A.ia("t")).f_(new A.aov(r,this.b,this.c))},
+new A.eG(A.fE(null),"https://api.renoresearch.sg").vz(J.a7(J.a7(r.ch,r.cy),"name"),s,A.ia("t")).f_(new A.aov(r,this.b,this.c))},
 $S:0}
 A.aov.prototype={
 $1(a){var s=J.h1(a)
@@ -42796,7 +42796,7 @@ if(p==="Publish")p=0
 else p=p==="Draft"?1:2
 s=A.d([A.aF(["question",q,"status",p,"answer",r.x.a.a,"updated",r.y.j(0),"person","widget.name"],t.N,t.K)],t.Mq)
 A.zm(null)
-new A.eG(A.fE(null),"http://localhost:3000").vz("",s,A.ia("t")).f_(new A.awA(r,this.b,this.c))},
+new A.eG(A.fE(null),"https://api.renoresearch.sg").vz("",s,A.ia("t")).f_(new A.awA(r,this.b,this.c))},
 $S:0}
 A.awA.prototype={
 $1(a){var s=J.h1(a)
@@ -42859,7 +42859,7 @@ s=p<600?300:340
 return A.Ce(r,r,A.bp(r,A.c_(A.bo(A.d([A.V(A.ix("assets/images/logo.jpeg",B.d2,r,200),r,s)],t.p),B.i,B.af,B.h),r,r),B.r,B.e,r,r,r,q.a.b,r,r,r,r,p))}}
 A.arM.prototype={
 $0(){var s=this.a
-new A.eG(A.fE(null),"http://localhost:3000").vL(s.a.c).f_(new A.arL(s))},
+new A.eG(A.fE(null),"https://api.renoresearch.sg").vL(s.a.c).f_(new A.arL(s))},
 $S:11}
 A.arL.prototype={
 $1(a){var s,r
@@ -43007,7 +43007,7 @@ else n.M(new A.apy(n))
 if(B.l.j(p).length===1)n.M(new A.apz(n,p))
 else n.M(new A.apA(n,p))
 n.M(new A.apB(o,n))
-o=new A.eG(A.fE(null),"http://localhost:3000").uw(n.a.c,o.a,n.ch).f_(new A.apC(n,q.b))
+o=new A.eG(A.fE(null),"https://api.renoresearch.sg").uw(n.a.c,o.a,n.ch).f_(new A.apC(n,q.b))
 s=4
 return A.Z(o,$async$$0)
 case 4:case 3:return A.Q(null,r)}})
@@ -43165,7 +43165,7 @@ else n.M(new A.apU(n))
 if(B.l.j(p).length===1)n.M(new A.apV(n,p))
 else n.M(new A.apW(n,p))
 n.M(new A.apX(o,n))
-o=new A.eG(A.fE(null),"http://localhost:3000").uw(n.a.c,o.a,n.ax).f_(new A.apY(n,q.b))
+o=new A.eG(A.fE(null),"https://api.renoresearch.sg").uw(n.a.c,o.a,n.ax).f_(new A.apY(n,q.b))
 s=4
 return A.Z(o,$async$$0)
 case 4:case 3:return A.Q(null,r)}})
@@ -43295,7 +43295,7 @@ s=p.Q&&p.y>=8?2:3
 break
 case 2:p.M(new A.as4(p))
 if(p.as)A.zm("loading...")
-p=new A.eG(A.fE(null),"http://localhost:3000").uS(p.r,p.w).f_(new A.as5(p,q.b))
+p=new A.eG(A.fE(null),"https://api.renoresearch.sg").uS(p.r,p.w).f_(new A.as5(p,q.b))
 s=4
 return A.Z(p,$async$$0)
 case 4:case 3:return A.Q(null,r)}})
@@ -43412,7 +43412,7 @@ s=p.Q&&p.y>=8?2:3
 break
 case 2:p.M(new A.asg(p))
 if(p.as)A.zm("loading...")
-p=new A.eG(A.fE(null),"http://localhost:3000").uS(p.r,p.w).f_(new A.ash(p,q.b))
+p=new A.eG(A.fE(null),"https://api.renoresearch.sg").uS(p.r,p.w).f_(new A.ash(p,q.b))
 s=4
 return A.Z(p,$async$$0)
 case 4:case 3:return A.Q(null,r)}})
@@ -43495,7 +43495,7 @@ A.Xr.prototype={
 ac(){var s=this
 s.ao()
 A.xu(s.a.c)
-new A.eG(A.fE(null),"http://localhost:3000").vE(s.a.c).f_(new A.au6(s))},
+new A.eG(A.fE(null),"https://api.renoresearch.sg").vE(s.a.c).f_(new A.au6(s))},
 oj(){this.M(new A.auf(this))},
 mR(){this.M(new A.au3(this))},
 G(a){var s,r,q,p,o,n,m=null,l=t.w,k=A.aY(a,m,l).w.a.b
@@ -43582,7 +43582,7 @@ p.mR()
 s=p.Q>=8&&p.x===p.y?2:3
 break
 case 2:p.M(new A.auc(p))
-p=new A.eG(A.fE(null),"http://localhost:3000").vn(p.x,p.a.c).f_(new A.aud(p))
+p=new A.eG(A.fE(null),"https://api.renoresearch.sg").vn(p.x,p.a.c).f_(new A.aud(p))
 s=4
 return A.Z(p,$async$$0)
 case 4:case 3:return A.Q(null,r)}})
@@ -43624,7 +43624,7 @@ U(){var s=$.az()
 return new A.Xs(new A.dj(B.ao,s),new A.dj(B.ao,s))}}
 A.Xs.prototype={
 ac(){this.ao()
-new A.eG(A.fE(null),"http://localhost:3000").vE(this.a.c).f_(new A.auq(this))},
+new A.eG(A.fE(null),"https://api.renoresearch.sg").vE(this.a.c).f_(new A.auq(this))},
 oj(){this.M(new A.auz(this))},
 mR(){this.M(new A.aun(this))},
 G(a){var s,r,q,p,o=null,n=t.w,m=A.aY(a,o,n).w.a.b,l=A.aY(a,o,n).w.a.a,k=A.dh(a,!0,t.A).a
@@ -43713,7 +43713,7 @@ p.mR()
 s=p.Q>=8&&p.x===p.y?2:3
 break
 case 2:p.M(new A.auw(p))
-p=new A.eG(A.fE(null),"http://localhost:3000").vn(p.x,p.a.c).f_(new A.aux(p))
+p=new A.eG(A.fE(null),"https://api.renoresearch.sg").vn(p.x,p.a.c).f_(new A.aux(p))
 s=4
 return A.Z(p,$async$$0)
 case 4:case 3:return A.Q(null,r)}})
